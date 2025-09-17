@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "407803218880",
+    "project_id": "rickshare-5b08b",
+    "storage_bucket": "rickshare-5b08b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407803218880:android:4b460311da5bf7b4a29625",
+        "android_client_info": {
+          "package_name": "com.example.rickshare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPnO0llXTgIcWTY7rRnplDjpAlRpNDjHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
